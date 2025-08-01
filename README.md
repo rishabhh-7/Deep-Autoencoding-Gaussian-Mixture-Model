@@ -15,12 +15,9 @@ This repository extends the ICLR’18 DAGMM architecture to the image domain, ex
 
 ```
 .
-├── data/                 # (optional) place your image datasets here
 ├── models/               # saved model checkpoints
 ├── notebooks/            # exploratory analysis and plotting
-├── trials/               # training logs & inference outputs
 ├── DAGMM.py              # DAGMM Architecture definintion
-├── Results/              # Results of using DAGMM for anomaly detection
 ├── requirements.txt
 └── README.md
 ```
